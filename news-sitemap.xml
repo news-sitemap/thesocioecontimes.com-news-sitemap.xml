@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+    
+    <url>
+        <loc>https://example.com/news-article-1</loc>
+        <news:news>
+            <news:publication>
+                <news:name>The SocioEcon Times</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-02-26</news:publication_date>
+            <news:title>Blockchain in Finance: DeFi Innovations and Trends for 2025</news:title>
+            <news:keywords>Blockchain in Finance, DeFi Innovations 2025, Blockchain applications in global finance 2025, Decentralized finance trends in 2025, Blockchain use cases in finance, Decentralized finance applications, Blockchain consulting services, Smart contracts in banking, Blockchain security solutions, Distributed ledger technology in finance, Blockchain integration in financial services, Decentralized finance platforms, Blockchain-based payment systems, Financial blockchain innovation, Blockchain and cryptocurrency trends 2025, Blockchain for secure financial transactions, Future of decentralized finance, Tokenization in blockchain finance, Blockchain and financial technology (FinTech), Blockchain transformation in banking systems</news:keywords>
+        </news:news>
+    </url>
+    
+    
